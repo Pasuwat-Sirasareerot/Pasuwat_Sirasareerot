@@ -12,8 +12,13 @@ Data analysis project
 [ดูโค้ด](./SQL_Covid_Project.sql)
 
 ---
+## 📁 Project 2: Data Visualization – COVID-19
+ทำ Visualization เกี่ยวกับข้อมูลการติดเชื้อ อัตราการเสียชีวิต อัตราการฉีดวัคซันต่อจำนวนประชากร
+![Dashboard 1](https://github.com/user-attachments/assets/f81a88fb-7db4-4a42-a5cd-a9d43ec6325b)
+https://public.tableau.com/shared/C86FB3RCF?:display_count=n&:origin=viz_share_link
 
-## 📁 Project 2: Data Cleaning – Nashville Housing
+
+## 📁 Project 3: Data Cleaning – Nashville Housing
 **ไฟล์:** `Data_cleaning_project.sql`  
 **คำอธิบาย:**  
 สคริปต์ SQL สำหรับทำ Data Cleaning กับข้อมูลอสังหาริมทรัพย์ใน Nashville
