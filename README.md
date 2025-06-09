@@ -63,5 +63,9 @@ https://public.tableau.com/shared/C86FB3RCF?:display_count=n&:origin=viz_share_l
 5. **Model Evaluation**
    - วัดผลด้วย R² Score
    - เปรียบเทียบผลลัพธ์ของแต่ละโมเดล
+   - ![image](https://github.com/user-attachments/assets/356f6310-0c7d-4db8-b87c-fdc1d2118596)
+   - ![image](https://github.com/user-attachments/assets/5cdc3284-ccff-416f-bb67-c924224b0aaa)
+
+
 
 [ดูโค้ด](./Car_Price_Prediction.ipynb)
